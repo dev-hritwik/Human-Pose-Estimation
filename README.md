@@ -7,7 +7,7 @@ CNN trained on LSP dataset
 
 ### Details
 framework.pdf: presentation for simple explanation of the project framework and result comparison <br>
-explo.py: train model for pose estimation <br>
+explo.py: training the  model for pose estimation <br>
 pck.py: evaluate pck score for model <br>
 3 python notebooks for implementation of 3 CNN architectures <br><br>
 Project by Lakshya Gupta and Janhavi Gupta
